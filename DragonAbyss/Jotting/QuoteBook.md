@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Quote
+description: This is a f**king quote book.
 ---
 
 * I am very sane about how crazy I am.
